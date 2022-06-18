@@ -4,10 +4,10 @@ public class SwitchCase {
 	
 	public static void main(String[] args) {
 		
-		Scanner day = new Scanner(System.in);
+		Scanner mes = new Scanner(System.in);
 		System.out.println("Digite o mes");
 				    
-			switch(day.nextInt()) {
+			switch(mes.nextInt()) {
 		    case 1:
 		    	System.out.println("Janeiro");
 		   		 break;
