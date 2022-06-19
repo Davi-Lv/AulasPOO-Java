@@ -1,4 +1,3 @@
-package postados;
 /*
  * Utilizando a estrutura de repetição FOR, 
  * complete o programa abaixo para imprimir todos os 
