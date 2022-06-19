@@ -28,14 +28,14 @@ public class utilizandoFor {
 				System.out.println(rep);
 		}
 
+		System.out.println("---------------------");
+		
 		/*
 		 * Utilizando uma estrutura de repetição, complete o programa abaixo para
 		 * imprimir todos os números de 80 a 340 e sempre que o número impresso for
 		 * ímpar, imprima ao lado do número o texto “é ímpar”. Exemplo: 81 é ímpar. Caso
 		 * o número seja par, só é necessário imprimir apenas o número. Exemplo: 82.
 		 */
-		
-		System.out.println("---------------------");
 		
 		//usei o while nesta
 			//coloquei uma variavel inteira com o valor de 80
