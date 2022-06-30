@@ -1,4 +1,4 @@
-## Exemplo de problemas para serem criadas:
+## Desenvolvendo uma casa com suas características:
 
 ### Problema 1: 
 		 Casa A: murada na Rua Caramuru, 32, Ouro Preto, Paulista, de cor branco gelo,
