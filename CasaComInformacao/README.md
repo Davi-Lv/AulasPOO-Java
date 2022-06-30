@@ -1,7 +1,7 @@
 ## Exemplo de problemas para serem criadas:
 
 ### Problema 1: 
-     Casa A: murada na Rua Caramuru, 32, Ouro Preto, Paulista, de cor branco gelo,
+     	 	 Casa A: murada na Rua Caramuru, 32, Ouro Preto, Paulista, de cor branco gelo,
 		 com uma porta azul de 1,80m de altura, e uma garagem para 2 carros, coberta e
 		 sem porta. O proprietário desta casa chama-se Carlos Alberto e telefone dele
 		 é 3445-3040.
