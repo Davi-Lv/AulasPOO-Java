@@ -1,4 +1,3 @@
-package postados;
 import java.util.Scanner;
 
 public class ImprimirTeclado {
