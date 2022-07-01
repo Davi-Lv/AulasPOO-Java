@@ -1,12 +1,16 @@
+//importando o scanner
 import java.util.Scanner;
 
+//criando a classe
 public class SwitchCase {
-	
+	//criando um metodo main 
 	public static void main(String[] args) {
 		
+		//objeto para scanear a tecla do usuario
 		Scanner mes = new Scanner(System.in);
+		//imprimindo
 		System.out.println("Digite o mes");
-				    
+			//usando switch para ser chamado de acordo com oque o usuario digitar
 			switch(mes.nextInt()) {
 		    case 1:
 		    	System.out.println("Janeiro");
